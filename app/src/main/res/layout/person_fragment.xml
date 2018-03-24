@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/person_name"
+        android:hint="@string/person_name"
+        style="@style/edit_text" />
+    <EditText
+        android:id="@+id/person_mail"
+        android:hint="@string/person_e_mail"
+        style="@style/edit_text" />
+    <EditText
+        android:id="@+id/person_phone"
+        android:hint="@string/person_phone_no"
+        style="@style/edit_text" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:text="@string/save"
+        android:id="@+id/save"
+        android:layout_marginTop="30sp"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

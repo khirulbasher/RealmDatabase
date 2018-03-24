@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RealmDatabase</string>
+    <string name="person_name">Person Name</string>
+    <string name="person_e_mail">Person E-mail</string>
+    <string name="person_phone_no">Person Phone No</string>
+    <string name="save">Save</string>
+    <string name="add_person">Add Person</string>
+    <string name="show_all_person">Show All Person</string>
+</resources>
